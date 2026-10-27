@@ -1,8 +1,8 @@
 {
   "id": "./",
-  "name": "Nursing Study Hub",
+  "name": "Study Hub",
   "short_name": "Study Hub",
-  "description": "Offline-first nursing flashcards, original quizzes and daily review",
+  "description": "Offline-first multi-subject flashcards, original quizzes and daily review",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
